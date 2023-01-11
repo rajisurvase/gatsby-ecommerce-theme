@@ -38,14 +38,14 @@ const IndexPage = () => {
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
-        <p>
+        {/* <p>
           This is a demonstration of the Sydney theme for verse by{' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
           <span className={styles.gold}>scotch&soda</span>
-        </p>
+        </p> */}
       </div>
 
       {/* Collection Container */}
